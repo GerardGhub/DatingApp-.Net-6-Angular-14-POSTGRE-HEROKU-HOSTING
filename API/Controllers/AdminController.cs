@@ -1,16 +1,7 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using API.Entities;
-using API.Interfaces;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 
-namespace API.Controllers
-{
+
+namespace API.Controllers;
+
     public class AdminController : BaseApiController
     {
         private readonly UserManager<AppUser> _userManager;
@@ -140,5 +131,5 @@ namespace API.Controllers
 
 
 
-    }
+    
 }

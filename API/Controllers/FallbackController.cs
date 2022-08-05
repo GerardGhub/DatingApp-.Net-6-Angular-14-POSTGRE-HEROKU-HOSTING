@@ -1,8 +1,5 @@
-using System.IO;
-using Microsoft.AspNetCore.Mvc;
+namespace API.Controllers;
 
-namespace API.Controllers
-{
     public class FallbackController : Controller
     {
         public ActionResult Index() 
@@ -11,4 +8,3 @@ namespace API.Controllers
             "wwwroot", "index.html"), "text/HTML");
         }
     }
-}

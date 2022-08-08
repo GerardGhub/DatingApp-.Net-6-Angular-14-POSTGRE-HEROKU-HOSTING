@@ -42,7 +42,7 @@
             app.MapFallbackToController("Index", "Fallback");
 
 
-            // AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true); // fixed error
+            AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true); // fixed error
             using var scope = app.Services.CreateScope();
             var services = scope.ServiceProvider;
             try

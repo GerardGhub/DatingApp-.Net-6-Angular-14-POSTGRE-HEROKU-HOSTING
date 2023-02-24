@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\FilesGerard\\Net Core Project\\Dating Application MS SQL WITH PROD BUILD IN API\\Aspnet Core 6  Project\\DatingApp\\API\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "C:\\FilesGerard\\Net Core Project\\Dating Application MS SQL WITH PROD BUILD IN API\\Aspnet Core 6  Project\\DatingApp\\API\\wwwroot\\assets\\user.png",
+      "PackagePath": "staticwebassets\\assets\\user.png"
+    },
+    {
+      "Id": "C:\\FilesGerard\\Net Core Project\\Dating Application MS SQL WITH PROD BUILD IN API\\Aspnet Core 6  Project\\DatingApp\\API\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\FilesGerard\\Net Core Project\\Dating Application MS SQL WITH PROD BUILD IN API\\Aspnet Core 6  Project\\DatingApp\\API\\wwwroot\\fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.1e59d2330b4c6deb84b3.ttf"
+    },
+    {
+      "Id": "C:\\FilesGerard\\Net Core Project\\Dating Application MS SQL WITH PROD BUILD IN API\\Aspnet Core 6  Project\\DatingApp\\API\\wwwroot\\fontawesome-webfont.20fd1704ea223900efa9.woff2",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.20fd1704ea223900efa9.woff2"
+    },
+    {
+      "Id": "C:\\FilesGerard\\Net Core Project\\Dating Application MS SQL WITH PROD BUILD IN API\\Aspnet Core 6  Project\\DatingApp\\API\\wwwroot\\fontawesome-webfont.8b43027f47b20503057d.eot",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.8b43027f47b20503057d.eot"
+    },
+    {
+      "Id": "C:\\FilesGerard\\Net Core Project\\Dating Application MS SQL WITH PROD BUILD IN API\\Aspnet Core 6  Project\\DatingApp\\API\\wwwroot\\fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg"
+    },
+    {
+      "Id": "C:\\FilesGerard\\Net Core Project\\Dating Application MS SQL WITH PROD BUILD IN API\\Aspnet Core 6  Project\\DatingApp\\API\\wwwroot\\fontawesome-webfont.f691f37e57f04c152e23.woff",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.f691f37e57f04c152e23.woff"
+    },
+    {
+      "Id": "C:\\FilesGerard\\Net Core Project\\Dating Application MS SQL WITH PROD BUILD IN API\\Aspnet Core 6  Project\\DatingApp\\API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\FilesGerard\\Net Core Project\\Dating Application MS SQL WITH PROD BUILD IN API\\Aspnet Core 6  Project\\DatingApp\\API\\wwwroot\\main.4de40d3165821cecbda4.js",
+      "PackagePath": "staticwebassets\\main.4de40d3165821cecbda4.js"
+    },
+    {
+      "Id": "C:\\FilesGerard\\Net Core Project\\Dating Application MS SQL WITH PROD BUILD IN API\\Aspnet Core 6  Project\\DatingApp\\API\\wwwroot\\polyfills.5760222eea84ccd115d8.js",
+      "PackagePath": "staticwebassets\\polyfills.5760222eea84ccd115d8.js"
+    },
+    {
+      "Id": "C:\\FilesGerard\\Net Core Project\\Dating Application MS SQL WITH PROD BUILD IN API\\Aspnet Core 6  Project\\DatingApp\\API\\wwwroot\\runtime.4b1540bf51da5ef20c67.js",
+      "PackagePath": "staticwebassets\\runtime.4b1540bf51da5ef20c67.js"
+    },
+    {
+      "Id": "C:\\FilesGerard\\Net Core Project\\Dating Application MS SQL WITH PROD BUILD IN API\\Aspnet Core 6  Project\\DatingApp\\API\\wwwroot\\styles.2038182cf3a07f039a64.css",
+      "PackagePath": "staticwebassets\\styles.2038182cf3a07f039a64.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

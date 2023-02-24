@@ -1,0 +1,290 @@
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\appsettings.Development.json
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\appsettings.json
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\API.exe
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\API.deps.json
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\API.runtimeconfig.json
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\API.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\API.pdb
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\staticwebassets.build.json
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\staticwebassets.development.json
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.csproj.CopyComplete
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\refint\API.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.pdb
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\ref\API.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Humanizer.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\APi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Data\UserSeedData.json
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\AutoMapper.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\CloudinaryDotNet.dll
+D:\MY Files\UM System\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\appsettings.json
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Data\UserSeedData.json
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\API.exe
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\API.deps.json
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\API.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\ref\API.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\API.pdb
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Humanizer.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\ref\API.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.pdb
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Files Gerard\Net Core Project\Dating Application\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\appsettings.json
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Data\UserSeedData.json
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\API.staticwebassets.runtime.json
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\API.exe
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\API.deps.json
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\API.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\ref\API.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\API.pdb
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Humanizer.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\ref\API.dll
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.pdb
+C:\Files Gerard\Net Core Project\Dating Application PostGre\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\appsettings.Development.json
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\appsettings.json
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Data\UserSeedData.json
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\API.staticwebassets.runtime.json
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\API.exe
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\API.deps.json
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\API.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\API.pdb
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\AutoMapper.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Humanizer.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\refint\API.dll
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.pdb
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\FilesGerard\Net Core Project\Dating Application MS SQL WITH PROD BUILD IN API\Aspnet Core 6  Project\DatingApp\API\obj\Debug\net6.0\ref\API.dll

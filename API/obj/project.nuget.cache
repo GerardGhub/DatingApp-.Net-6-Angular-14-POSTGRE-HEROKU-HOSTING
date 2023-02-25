@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TzFHYDLL+Vsr7zwXCW6hErnEywy9vzKCGH3SoHC5AcRWHIyYokZSlstu7G8DsXVsbkXzDGc8UImJD4l2LVeyDw==",
+  "dgSpecHash": "oFK3nS1bYPLcUR/1kItJQj+Aep4V/XlfzNDHmwwTXsU/pd4jgUbQdVs+LnRxlPEB0L0Gohh1N7LlWkrLbOFTLg==",
   "success": true,
   "projectFilePath": "C:\\FilesGerard\\Net Core Project\\Dating Application MS SQL WITH PROD BUILD IN API\\Aspnet Core 6  Project\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -27,6 +27,7 @@
     "C:\\Users\\VivoBook\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.3\\microsoft.entityframeworkcore.design.7.0.3.nupkg.sha512",
     "C:\\Users\\VivoBook\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.3\\microsoft.entityframeworkcore.relational.7.0.3.nupkg.sha512",
     "C:\\Users\\VivoBook\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.3\\microsoft.entityframeworkcore.sqlserver.7.0.3.nupkg.sha512",
+    "C:\\Users\\VivoBook\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.3\\microsoft.entityframeworkcore.tools.7.0.3.nupkg.sha512",
     "C:\\Users\\VivoBook\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\VivoBook\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\VivoBook\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",

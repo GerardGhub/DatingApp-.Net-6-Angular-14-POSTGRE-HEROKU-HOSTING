@@ -4,17 +4,17 @@
 
 <div class="container mt-3">
   <form #form="ngForm" class="d-flex mb-3" (ngSubmit)="loadMembers()" autocomplete="off">
-    <div class="form-group">
+    <div class="d-flex">
       <label>Age from: </label>
       <input type="number" class="form-control ms-1" style="width: 70px;" name="minAge" [(ngModel)]="userParams.minAge">
     </div>
 
-    <div class="form-group px-2">
+    <div class="d-flex px-2">
       <label>Age to: </label>
       <input type="number" class="form-control ms-1" style="width: 70px;" name="maxAge" [(ngModel)]="userParams.maxAge">
     </div>
 
-    <div class="form-group px-2">
+    <div class="d-flex px-2">
       <label>Show: </label>
       <select name="gender" style="width: 130px;" [(ngModel)]="userParams.gender" class="form-control ms-1">
         <option *ngFor="let gender of genderList" [value]="gender.value">
@@ -27,7 +27,7 @@
     <button (click)="resetFilters()" class="btn btn-info ms-1" type="submit">Reset Filters</button>
 
     <div class="col">
-      <div class="btn-group float-right">
+      <div class="btn-group float-end">
         <button 
         type="button"
         class="btn btn-primary" 
